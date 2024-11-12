@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c28f21f2-45a4-4a65-933a-3a9f841fa94f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/InputHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputHelper.java" afterDir="false" />
-    </list>
+    <list default="true" id="c28f21f2-45a4-4a65-933a-3a9f841fa94f" name="Changes" comment="4ini" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,28 @@
       <option name="presentableId" value="Default" />
       <updated>1731077152631</updated>
     </task>
+    <task id="LOCAL-00001" summary="3ini">
+      <option name="closed" value="true" />
+      <created>1731417693211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731417693211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4ini">
+      <option name="closed" value="true" />
+      <created>1731417740588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731417740588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3ini" />
+    <MESSAGE value="4ini" />
+    <option name="LAST_COMMIT_MESSAGE" value="4ini" />
   </component>
 </project>
