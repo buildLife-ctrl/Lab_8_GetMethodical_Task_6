@@ -2,12 +2,17 @@ import java.util.Scanner;
 
 public class InputHelper {
     public static void prettyHeader(Scanner scan, String msg) {
+        int buffer = 54 - msg.length();
+
         for (int i = 0; i < 3; i++) {
             if (i == 1) {
                 System.out.print("***");
-                for (int z = 0; z < 54; z++) {
+                for (int z = 0; z < buffer/2; z++) {
                     System.out.print(" ");
-                    System.out.print(msg);
+                }
+                System.out.print(msg);
+                for (int z = 0; z < buffer/2; z++) {
+                    System.out.print(" ");
                 }
                 System.out.print("***");
             } else {
